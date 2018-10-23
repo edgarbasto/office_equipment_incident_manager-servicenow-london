@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="comments" label="Comentários adicionais" language="en" table="x_276119_office_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <help/>
+            <hint/>
+            <label>Comentários adicionais</label>
+            <language>en</language>
+            <name>x_276119_office_incident</name>
+            <plural>Comentários adicionais</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-18 11:29:42</sys_created_on>
+            <sys_id>55240428db5123005491eb41ca96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Comentários adicionais</sys_name>
+            <sys_package display_value="Office" source="x_276119_office">0dbdf9b7db4123005491eb41ca96190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Office">0dbdf9b7db4123005491eb41ca96190d</sys_scope>
+            <sys_update_name>sys_documentation_x_276119_office_incident_comments_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 11:29:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

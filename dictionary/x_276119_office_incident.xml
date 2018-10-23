@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Incident" max_length="40" name="x_276119_office_incident" sizeclass="37" type="collection">
+        <element choice="1" label="Request type" mandatory="true" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Repair" sequence="0" value="repair"/>
+                <element inactive_on_update="false" label="Substituir" language="pt" sequence="0" value="replac"/>
+                <element inactive_on_update="false" label="Reparar" language="pt" sequence="1" value="repair"/>
+                <element inactive_on_update="false" label="Replace" sequence="1" value="replac"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type of equipment" mandatory="true" max_length="40" name="type_of_equipment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ar Condicionado" language="pt" value="ac"/>
+                <element inactive_on_update="false" label="Destruidora de papel" language="pt" value="ps"/>
+                <element inactive_on_update="false" label="Micro-ondas" language="pt" value="mw"/>
+                <element inactive_on_update="false" label="Tv" language="pt" value="tv"/>
+                <element inactive_on_update="false" label="Air Conditioning" sequence="0" value="ac"/>
+                <element inactive_on_update="false" label="Paper shredder" sequence="1" value="ps"/>
+                <element inactive_on_update="false" label="Microwave" sequence="2" value="mw"/>
+                <element inactive_on_update="false" label="Tv" sequence="3" value="tv"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_1" type="journal"/>
+        <element dependent="location" dependent_on_field="location" label="Location_test" mandatory="true" max_length="32" name="u_reference_loc" reference="sys_user" type="reference" use_dependent_field="true"/>
+        <element default="5ea9dabbdb8123005491eb41ca9619b9" label="Location" mandatory="true" max_length="32" name="u_ref_location" reference="cmn_location" reference_qual="countryLIKEPortugal^EQ" reference_qual_condition="countryLIKEPortugal^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Equipment bar code" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="00d0c2fbdb4123005491eb41ca961902" sys_domain="global" table="x_276119_office_incident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08d0c2fbdb4123005491eb41ca961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_276119_office_incident" name="x_276119_office_incident" sys_domain="global" view="Default view">00d0c2fbdb4123005491eb41ca961902</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_276119_office_incident" sys_domain="global" view="Default view">253eb5f7db4123005491eb41ca9619ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:38:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04d0c2fbdb4123005491eb41ca961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_276119_office_incident" name="x_276119_office_incident" sys_domain="global" view="Default view">00d0c2fbdb4123005491eb41ca961902</sys_ui_form>
+            <sys_ui_section caption="Equipment identification" display_value="Equipment identification" name="x_276119_office_incident" sys_domain="global" view="Default view">00d0c2fbdb4123005491eb41ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:38:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 08:33:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>084204fddb5523005491eb41ca9619d8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_276119_office_incident" name="x_276119_office_incident" sys_domain="global" view="Default view">00d0c2fbdb4123005491eb41ca961902</sys_ui_form>
+            <sys_ui_section caption="Technician Info" display_value="Technician Info" name="x_276119_office_incident" sys_domain="global" view="Default view">884204fddb5523005491eb41ca9619d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 08:33:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 13:41:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c72fc637db8123005491eb41ca9619ff</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_276119_office_incident" name="x_276119_office_incident" sys_domain="global" view="Default view">00d0c2fbdb4123005491eb41ca961902</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_276119_office_incident" sys_domain="global" view="Default view">4f2fc637db8123005491eb41ca9619fc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 08:33:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-22 11:07:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7885ec39dbd523005491eb41ca961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_276119_office_incident" name="x_276119_office_incident" sys_domain="global" view="Default view">00d0c2fbdb4123005491eb41ca961902</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_276119_office_incident" sys_domain="global" view="Default view">fc85ec39dbd523005491eb41ca961980</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-22 11:07:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_276119_office_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00d0c2fbdb4123005491eb41ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_276119_office_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Office" source="x_276119_office">0dbdf9b7db4123005491eb41ca96190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Office">0dbdf9b7db4123005491eb41ca96190d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_00d0c2fbdb4123005491eb41ca961902</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:38:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type_of_equipment" table="x_276119_office_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ar Condicionado</label>
+            <language>pt</language>
+            <name>x_276119_office_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5500ce3bdb4123005491eb41ca961946</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:35:46</sys_updated_on>
+            <value>ac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Micro-ondas</label>
+            <language>pt</language>
+            <name>x_276119_office_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:39:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21f086fbdb4123005491eb41ca9619a8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:40:02</sys_updated_on>
+            <value>mw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Destruidora de papel</label>
+            <language>pt</language>
+            <name>x_276119_office_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:40:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36114afbdb4123005491eb41ca961988</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:40:51</sys_updated_on>
+            <value>ps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tv</label>
+            <language>pt</language>
+            <name>x_276119_office_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:40:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>960146fbdb4123005491eb41ca96196b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:40:21</sys_updated_on>
+            <value>tv</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Air Conditioning</label>
+            <language>en</language>
+            <name>x_276119_office_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:33:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c17f393bdb4123005491eb41ca961904</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 13:46:49</sys_updated_on>
+            <value>ac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paper shredder</label>
+            <language>en</language>
+            <name>x_276119_office_incident</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6af3d3bdb4123005491eb41ca9619f3</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 13:46:57</sys_updated_on>
+            <value>ps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microwave</label>
+            <language>en</language>
+            <name>x_276119_office_incident</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e5fb13bdb4123005491eb41ca9619c7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 13:47:04</sys_updated_on>
+            <value>mw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_equipment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tv</label>
+            <language>en</language>
+            <name>x_276119_office_incident</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:32:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>462f793bdb4123005491eb41ca9619e5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 11:29:41</sys_updated_on>
+            <value>tv</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type_of_equipment</element>
+            <name>x_276119_office_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 12:32:24</sys_created_on>
+            <sys_id>105f793bdb4123005491eb41ca9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type_of_equipment</sys_name>
+            <sys_package display_value="Office" source="x_276119_office">0dbdf9b7db4123005491eb41ca96190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Office">0dbdf9b7db4123005491eb41ca96190d</sys_scope>
+            <sys_update_name>sys_choice_x_276119_office_incident_type_of_equipment</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 12:32:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
